@@ -1,0 +1,56 @@
+# Thư mục hệ thống
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Oo]ut/
+
+# Các file cấu hình của IDE
+*.sln
+*.csproj
+*.user
+*.suo
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.tmp
+*.bak
+.vs/
+
+# Các file của Unity
+*.unity
+*.mat
+*.asset
+*.controller
+*.anim
+*.fbx
+*.png
+*.jpg
+*.jpeg
+*.tga
+*.wav
+*.mp3
+*.mp4
+*.dll
+*.exe
+*.so
+*.dylib
+
+# Các file tạm thời khác
+*.swp
+*.swo
+*.tmp
+*.temp
+*.log
+*.vsconfig
+
+# Ignore các file của Visual Studio
+.vs/
+.vscode
